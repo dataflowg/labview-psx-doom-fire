@@ -1,7 +1,7 @@
 # LabVIEW PSX Doom Fire
 This is a LabVIEW implementation of the fire effect as seen in the Doom ports for the Sony PlayStation and Nintendo 64.
 
-[![LabVIEW PSX Doom Fire - Click for video](labview_fire.png?raw=true)](https://www.youtube.com/watch?v=Qo-2sA7pHhQ "LabVIEW PSX Doom Fire - Click for video")
+[![LabVIEW PSX Doom Fire - Click for video](labview_fire.png?raw=true)](https://www.youtube.com/watch?v=AiBx1Xi-XDQ "LabVIEW PSX Doom Fire - Click for video")
 
 The fire can be started and stopped using the buttons on the right (adding or removing the white pixel fire 'source'). A quick and dirty particle effect was added when clicking and dragging the mouse around the graph. It simply sets the pixel location to a fire source, and looks a bit like embers floating away which sometimes ignite and burn up.
 
